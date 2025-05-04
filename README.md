@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Dignag Pakhare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Creative</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Electronic Projets**
 - 🌱 I’m currently learning **Engineering**
-- 📫 How to reach me **Jimmygaming814@gmail.com**
+- 📫 How to reach me **dignagpakhare10@gmail.com**
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
